@@ -1,0 +1,45 @@
+-------------------
+input chars = 
+she eclipses and predominates the whole of her sex. it was not that he felt any emotion akin to love"
+predicted chars = 
+ verry may had a botwor one, that it is in the word, with the baid she, though be smelled upon it ou"
+-------------------
+input chars = 
+es and predominates the whole of her sex. it was not that he felt any emotion akin to love for irene"
+predicted chars = 
+ of emparred it reall cure, and the cond notusain huss you cuncuat hary and refeitly the sutay, and "
+-------------------
+input chars = 
+dominates the whole of her sex. it was not that he felt any emotion akin to love for irene adler. al"
+predicted chars = 
+l wass. he is away to the lead, and was spaundelly in the our upon the sable sours lady and emen gap"
+-------------------
+input chars = 
+r sex. it was not that he felt any emotion akin to love for irene adler. all emotions, and that one "
+predicted chars = 
+placiag the severded to the prot at an hour or seving hew streeth.  i than   very posting, but a bud"
+-------------------
+input chars = 
+cise but admirably balanced mind. he was, i take it, the most perfect reasoning and observing machin"
+predicted chars = 
+e with a succlem for sefter on the last.  houlde been was that i have erised agout on gims, and you "
+-------------------
+input chars = 
+dler, of dubious and questionable memory. i had seen little of holmes lately. my marriage had drifte"
+predicted chars = 
+d to know what i could de id horming at her word bith! i centiagl to me. my bey carrled a gave agow "
+-------------------
+input chars = 
+ of the singular tragedy of the atkinson brothers at trincomalee, and finally of the mission which h"
+predicted chars = 
+e cosed bot the had out of the was that he caress frim before yee in the daughter of the cliee.    h"
+-------------------
+input chars = 
+ twenty minutes.  this was quite too good to lose, watson. i was just balancing whether i should run"
+predicted chars = 
+ his about your doubly friet. he is a statictlerquary sperking. it would call must my wood cay out d"
+-------------------
+input chars = 
+lay.  he disappeared into his bedroom and returned in a few minutes in the character of an amiable a"
+predicted chars = 
+nd daughee side of the business of the dissive, said i lid upon and at in off riblog.  and me stalfa"
