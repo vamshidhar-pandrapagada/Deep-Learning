@@ -22,7 +22,7 @@ The Distribution of classes across Train, Test and Validation sets are almost id
 1. **Data Normaliation:** As for any data-set, image data has been normalized so that the numerical range is between 0 and 1.
 2. **Batch Normalization: ** As the inputs flow through different layers of the network their distribution change affecting the network's performance. This is called Internal-covariate shift problem. Technique called Batch normalization will center the inputs to zero and normalize them, then scale and shift the result using beta and gamma parameters. This is done just before the activation function of every layer.  
 In order to zero-center and normalize the inputs, the training needs to calculate the input's mean and standard deviation. It does by evaluating the mean and standard deviation of the inputs for every mini batch. (hence the name batch normalization).  
-This technique is proven to be very effective. In this case, it gives us a little nudge by improving the accuracy from 93 percent close to ~ 97 percent. The following code was taken from [](https://gist.github.com/tomokishii/0ce3bdac1588b5cca9fa5fbdf6e1c412)
+This technique is proven to be very effective. In this case, it gives us a little nudge by improving the accuracy from 93 percent close to ~ 97 percent. 
 
 3. **Image Augmentation**: This is a regularization technique to generate new training images from existing ones to boost the size of the training set. This will not only help the model learn better, but will also reduce over-fitting.  
 The idea is to slightly shift, rotate/flip, change brightness/contrast every picture in the training set and add them back to the training set.  
@@ -48,7 +48,7 @@ Convolution 1, Convolution 2, Fully Connected Layer 1 and Fully Connected Layer 
 Drop out regularization was used on Fully Connected Layer 1 and Fully Connected Layer 2.
 
 ### Hyper Parameters:
-1. The number of epochs used: 10
+1. The number of epochs used: 15
 2. Learning Rate:  0.01. Batch normalization has an advantage which will enable us to specify a higher learning rate without compromising on accuracy.
 3. Batch size : 128
 4. Drop out regularization probability: 0.6
